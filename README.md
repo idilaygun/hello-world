@@ -1,4 +1,4 @@
 # hello-world
 short description
-information
+# information
 is life beautiful
