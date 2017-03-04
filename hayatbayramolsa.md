@@ -20,4 +20,4 @@
 #5.Produced Torque During Start-up
 
 
-![Image of Yaktocat](http://m.eet.com/media/1059850/dc_motor_drives_fig4.11.jpg)
+![Image](http://m.eet.com/media/1059850/dc_motor_drives_fig4.11.jpg)
