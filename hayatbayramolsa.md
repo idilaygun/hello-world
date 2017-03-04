@@ -1,6 +1,6 @@
 ## **Speed Control of DC motor**
 **Prepared by İdil Aygün**
-#1.Rating Characteristics of Motor
+# 1.Rating Characteristics of Motor
 **Voltage rating:**
 
 **Current rating:**
