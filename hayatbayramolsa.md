@@ -22,3 +22,4 @@
 
 ![](http://m.eet.com/media/1059850/dc_motor_drives_fig4.11.jpg)
 Figure 2.Schematic of Control loops
+![](file:///C:/Users/pb/AppData/Local/Temp/mlreportgen/webview.html#1)
