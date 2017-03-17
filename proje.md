@@ -1,7 +1,7 @@
 ### Modeling a DC-motor drive system
 **Prepared by İdil Aygün**
 
-#1.Introduction
+#1. Introduction
 
 #2. Design of Three Models
 *Table of Parameters*
