@@ -16,14 +16,17 @@ In this modelling, DC motor is represented with blocks. That block are designed 
 
 **c)** Construction of a Model by the Aid of DC Motor Block
 
-3.Analysis of Models
+# 3.Analysis of Models
 After checking consistency of the models, they are analyzed according to the below  sections:
 
 **a)**Applying Rated Value to Armature Voltage:
+
 *Graphs and explanations...*
+
 **b)** Applying Half of the Rated Value to Armature Voltage:
 
 *Graphs and explanations...*
+
 **c)** Desing Voltage Controller:
 
 *Graphs and explanations...*
